@@ -28,6 +28,14 @@ When using `cypress run` and `--reporter cypress-image-snapshot/reporter`, diffs
 
 </details>
 
+---
+**NOTE**
+
+Before use this package you should know, that it is forked version of [original repo](https://github.com/jaredpalmer/cypress-image-snapshot
+) which is updated rarely, that is the reason of forking and updating package. Hope the original authors will continue working on such a productive package.
+
+---
+
 ## Installation
 
 Install from npm
