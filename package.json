@@ -1,5 +1,5 @@
 {
-  "name": "cypress-image-snapshot",
+  "name": "@sosog/cypress-image-snapshot",
   "version": "5.0.0",
   "description": "Cypress bindings for jest-image-snapshot.",
   "repository": "https://github.com/sosog/cypress-image-snapshot",
