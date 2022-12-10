@@ -2,7 +2,7 @@
   "name": "cypress-image-snapshot",
   "version": "5.0.0",
   "description": "Cypress bindings for jest-image-snapshot.",
-  "repository": "https://github.com/jaredpalmer/cypress-image-snapshot",
+  "repository": "https://github.com/sosog/cypress-image-snapshot",
   "author": "Jack Cross <jack@palmer.net>",
   "contributors": [
     "Ioseb Gvritishvili <sosogvritishvili@gmail.com>"
