@@ -1,3 +1,6 @@
+### This package no more supported, please use:
+### [simonsmith's package](https://www.npmjs.com/package/@simonsmith/cypress-image-snapshot)
+
 # Cypress Image Snapshot
 
 
