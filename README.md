@@ -1,8 +1,9 @@
+# DEPRECATED
+![No Maintenance Intended](https://img.shields.io/maintenance/no/2023.svg)
 ### This package no more supported, please use:
 ### [simonsmith's package](https://www.npmjs.com/package/@simonsmith/cypress-image-snapshot)
 
 # Cypress Image Snapshot
-
 
 Cypress Image Snapshot binds [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)'s image diffing logic to [Cypress.io](https://cypress.io) commands. **The goal is to catch visual regressions during integration tests.**
 
